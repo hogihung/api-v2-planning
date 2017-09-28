@@ -1,0 +1,10 @@
+{
+  "host_name": "nurny.oscar.com",
+  "interfaces": [
+    {
+      "base_addr": "10.0.2.0",
+      "ip_address": "10.0.2.45",
+      "name": "eth4"
+    }
+  ]
+}

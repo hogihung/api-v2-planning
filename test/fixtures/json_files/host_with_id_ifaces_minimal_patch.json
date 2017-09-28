@@ -1,0 +1,10 @@
+{
+  "host_id": "2046",
+  "interfaces": [
+    {
+      "base_addr": "10.0.2.0",
+      "ip_address": "10.0.2.25",
+      "name": "eth1"
+    }
+  ]
+}

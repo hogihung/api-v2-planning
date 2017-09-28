@@ -1,0 +1,21 @@
+{
+  "host_id": "2046",
+  "mounts": [
+    {
+      "freq": "0",
+      "mntops": "rw",
+      "passno": "0",
+      "path": "/",
+      "spec": "rootfs",
+      "vfstype": "rootfs"
+    },
+    {
+       "freq": "0",
+       "mntops": "rw,relatime",
+       "passno": "0",
+       "path": "/proc",
+       "spec": "proc",
+       "vfstype": "proc"
+     }
+  ]
+}

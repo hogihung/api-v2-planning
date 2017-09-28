@@ -1,0 +1,45 @@
+{
+  "host_id": "2046",
+  "interfaces": [
+    {
+      "base_addr": "10.0.2.0",
+      "broadcast": "10.0.2.255",
+      "flags": [
+        "BROADCAST",
+        "MULTICAST",
+        "UP",
+        "LOWER_UP"
+      ],
+      "ip_address": "10.0.2.15",
+      "link": "ether",
+      "mac_address": "08:00:27:a7:e3:53",
+      "mtu": "1500",
+      "name": "eth0",
+      "netmask": "24",
+      "qdisc": "pfifo_fast",
+      "qlen": "1000",
+      "scope": "link",
+      "scope_iface": "\\"
+    },
+    {
+      "base_addr": "192.168.100.0",
+      "broadcast": "192.168.100.255",
+      "flags": [
+        "BROADCAST",
+        "MULTICAST",
+        "UP",
+        "LOWER_UP"
+      ],
+      "ip_address": "192.168.100.69",
+      "link": "ether",
+      "mac_address": "08:00:27:af:14:2f",
+      "mtu": "1500",
+      "name": "eth1",
+      "netmask": "24",
+      "qdisc": "pfifo_fast",
+      "qlen": "1000",
+      "scope": "link",
+      "scope_iface": "\\"
+    }
+  ]
+}

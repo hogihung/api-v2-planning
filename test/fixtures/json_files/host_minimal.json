@@ -1,0 +1,13 @@
+{
+    "cpu_count": 2,
+    "cpu_model": "Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz",
+    "cpu_speed": "3100.000",
+    "host_role": "Development IT : Development Environments",
+    "host_type_name": "BAREMETAL",
+    "hostname": "devboxDIS",
+    "kernel_version": "Linux devboxDIS 3.8.13-118.16.4.el6uek.x86_64 #2 SMP Thu Feb 23 18:30:14 PST 2017 x86_64 x86_64 x86_64 GNU/Linux",
+    "os_version": "Red Hat Enterprise Linux Server release 6.8 (Santiago)",
+    "total_disk": 130568,
+    "total_memory": 2048,
+    "total_swap": 991
+}

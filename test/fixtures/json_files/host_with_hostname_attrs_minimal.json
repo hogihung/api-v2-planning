@@ -1,0 +1,12 @@
+{
+  "host_name": "bobot.oscar.com",
+  "em_agent_url": "https://bobot.oscar.com:42831/emd/main/",
+  "em_agent_version": "12.1.0.5.0",
+  "em_collection_status": "Collections enabled",
+  "em_heartbeat_status": "Ok",
+  "em_local_agent_url_in_nat": "https://bobot.oscar.com:42831/emd/main/",
+  "em_oms_version": "13.2.0.0.0",
+  "em_protocol_version": "12.1.0.1.0",
+  "em_repository_url": "https://bobot-repo.oscar.com:4890/empbs/upload",
+  "em_host": "devem.oscar.com"
+}

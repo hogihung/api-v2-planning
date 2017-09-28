@@ -1,0 +1,13 @@
+{
+  "host_name": "nurny.oscar.com",
+  "mounts": [
+    {
+      "freq": "0",
+      "mntops": "rw+",
+      "passno": "0",
+      "path": "/dev/ops",
+      "spec": "rootfs",
+      "vfstype": "rootfs"
+    }
+  ]
+}
